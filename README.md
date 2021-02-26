@@ -1,4 +1,7 @@
 # Hi there 你好 👋
+<p align="center"> 
+  <img src="https://github-readme-stats.vercel.app/api?username=solstice23&show_icons=true" />
+</p>
 ## 我是黑果小屋公司的CEO
 欢迎来到我的Github个人主页
 
