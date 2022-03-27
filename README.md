@@ -4,6 +4,14 @@
   <img src="https://github-readme-stats.vercel.app/api?username=black-fruit&show_icons=true&theme=github_dark&hide_border=true" width="550"/>
 </p>
 
+# My Top Repo
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=black-fruit&repo=cnote-cpp-stl&theme=github_dark&hide_border)](https://github.com/black-fruit/cnote-cpp-stl)
+
+# My Top Like Languages
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=black-fruit&layout=compact&theme=github_dark)](https://github.com/black-fruit/cnote-cpp-stl)
+
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/black-fruit/count.svg" />
