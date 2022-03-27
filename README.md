@@ -14,9 +14,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=black-fruit&layout=compact&theme=github_dark&hide_border=true)](https://github.com/black-fruit/cnote-cpp-stl)
 
-# My Wakatime Stats
-
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=black-fruit&layout=compact&theme=github_dark&hide_border=true)](https://github.com/black-fruit/cnote-cpp-stl)
+# Visitor Count
 
 <p align="center"> 
   Visitor count<br>
@@ -27,5 +25,5 @@
 欢迎来到我的Github个人主页
 
 # My Github Hexo Blog
-URL:HTTPS://BLACK-FRUIT.GITHUB.IO
+URL:https://blog.bfh.ink
 
