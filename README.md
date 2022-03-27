@@ -1,7 +1,7 @@
 # Hi there 你好 👋
 
 <p align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=black-fruit&show_icons=true&theme=tokyonight&hide_border=true" width="550"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=black-fruit&show_icons=true&theme=github_dark&hide_border=true" width="550"/>
 </p>
 
 <p align="center"> 
