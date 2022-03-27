@@ -12,7 +12,9 @@
 
 # My Top Like Languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=black-fruit&layout=compact&theme=github_dark&hide_border=true)](https://github.com/black-fruit/cnote-cpp-stl)
+<p align="center"> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=black-fruit&layout=compact&theme=github_dark&hide_border=true" width="550"/>
+</p>
 
 # Visitor Count
 
