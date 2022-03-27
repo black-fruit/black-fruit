@@ -1,5 +1,7 @@
 # Hi there 你好 👋
 
+# My Github Stats
+
 <p align="center"> 
   <img src="https://github-readme-stats.vercel.app/api?username=black-fruit&show_icons=true&theme=github_dark&hide_border=true" width="550"/>
 </p>
@@ -11,6 +13,10 @@
 # My Top Like Languages
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=black-fruit&layout=compact&theme=github_dark&hide_border=true)](https://github.com/black-fruit/cnote-cpp-stl)
+
+# My Wakatime Stats
+
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=black-fruit&layout=compact&theme=github_dark&hide_border=true)](https://github.com/black-fruit/cnote-cpp-stl)
 
 <p align="center"> 
   Visitor count<br>
