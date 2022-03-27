@@ -20,8 +20,7 @@
 
 # Visitor Count
 
-<p align="center"> 
-  Visitor count<br>
+<p align="center">
   <img src="https://profile-counter.glitch.me/black-fruit/count.svg" />
 </p>
 
