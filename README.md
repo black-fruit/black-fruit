@@ -18,6 +18,12 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=black-fruit&layout=compact&theme=github_dark&hide_border=true" width="550"/>
 </p>
 
+# osu!
+
+<p align="center"> 
+  <img src="https://osu-sig.vercel.app/card?user=BlackFruitHouse&mode=std&lang=en&blur=6&round_avatar=true&animation=true&hue=255" width="550"/>
+</p>
+
 # Visitor Count
 
 <p align="center">
